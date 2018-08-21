@@ -13,4 +13,4 @@ OPENMP
 
 **INSTALANDO OpenMP**
 
-    apt-get install openmp
+    sudo apt-get install openmp
