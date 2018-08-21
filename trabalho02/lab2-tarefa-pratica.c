@@ -1,5 +1,3 @@
-//Bruno Campos e Filipe Vogues
-
 #include <stdio.h>
 #include <stdlib.h>
 #ifdef __APPLE__
