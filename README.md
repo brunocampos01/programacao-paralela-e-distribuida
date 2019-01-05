@@ -1,16 +1,13 @@
-# programacao_paralela_e_distribuida
-INE5645 - Programação Paralela e Distribuída.
+# Programação Paralela e Distribuída - INE5645
 
-OPENMP
+## Pre Requirements
+- Java 1.7 or >
+- OPENMP
+- MPI
+- CUDA
+- Hadoop, tip install: https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-16-04
 
-**Para saber se OpenMP está instalado no Ubuntu:**
-   
-     dpkg --get-selections | grep openmp
-
-**Para saber se MPI está instalado no Ubuntu**
-
-    dpkg --get-selections | grep mpi
-
-**INSTALANDO OpenMP**
-
-    sudo apt-get install openmp
+## Projects
+1. Threads (Produtor-Consumidor)
+2. OpenMP
+3. Processamento distribuído (Hadoop)
