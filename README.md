@@ -5,7 +5,8 @@
 - OPENMP
 - MPI
 - CUDA
-- Hadoop, tip install: https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-16-04
+- Hadoop
+    - install: https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-16-04
 
 ## Projects
 1. Threads (Produtor-Consumidor)
