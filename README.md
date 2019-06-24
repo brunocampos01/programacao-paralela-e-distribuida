@@ -1,6 +1,6 @@
 # Programação Paralela e Distribuída - INE5645
 
-## Pre Requirements
+## Requirements
 - Java 1.7 or >
 - OPENMP
 - MPI
