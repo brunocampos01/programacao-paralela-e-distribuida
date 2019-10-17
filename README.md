@@ -12,3 +12,4 @@
 1. Threads (Produtor-Consumidor)
 2. OpenMP
 3. Processamento distribuído (Hadoop)
+4. Socket: envio e recebimento de mensagens
