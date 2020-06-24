@@ -76,6 +76,3 @@ int main ()
  	i = pthread_create(&thread, NULL, exercicio01, NULL);
  	pthread_exit(NULL);
 }
-
-
-http://www.di.ubi.pt/~operativos/praticos/pdf/9-threads.pdf
