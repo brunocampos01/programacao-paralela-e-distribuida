@@ -2,18 +2,18 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d6de1483d064abea26c3e57ff9274fc)](https://app.codacy.com/manual/brunocampos01/programacao-paralela-e-distribuida?utm_source=github.com&utm_medium=referral&utm_content=brunocampos01/programacao-paralela-e-distribuida&utm_campaign=Badge_Grade_Dashboard)
 
-## Requirements
+### Pré-requisitos
 - Java 1.8
 - OPENMP
 - MPI
 - CUDA
 - [Hadoop](https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-16-04)
 
-## Projects
-1. Threads (Produtor-Consumidor)
-2. OpenMP
-3. Processamento distribuído (Hadoop)
-4. Socket: envio e recebimento de mensagens
+### Trabalhos
+1. [Threads (Produtor-Consumidor)](trabalho01_threads/)
+2. [OpenMP](trabalho02_openMP/)
+3. [Processamento distribuído (Hadoop)](trabalho03_hadoop/wordcount)
+4. [Socket: envio e recebimento de mensagens](trabalho04_socket/)
 
 ---
 
