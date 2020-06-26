@@ -1,5 +1,7 @@
 # Programação Paralela e Distribuída - INE5645
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d6de1483d064abea26c3e57ff9274fc)](https://app.codacy.com/manual/brunocampos01/programacao-paralela-e-distribuida?utm_source=github.com&utm_medium=referral&utm_content=brunocampos01/programacao-paralela-e-distribuida&utm_campaign=Badge_Grade_Dashboard)
+
 ## Requirements
 - Java 1.8
 - OPENMP
@@ -15,7 +17,7 @@
 
 ---
 
-#### Author
+#### Autor
 <a href="mailto:brunocampos01@gmail.com" target="_blank"><img class="" src="https://github.com/brunocampos01/devops/blob/master/images/gmail.png" width="28"></a>
 <a href="https://github.com/brunocampos01" target="_blank"><img class="ai-subscribed-social-icon" src="https://github.com/brunocampos01/devops/blob/master/images/github.png" width="30"></a>
 <a href="https://www.linkedin.com/in/brunocampos01/" target="_blank"><img class="ai-subscribed-social-icon" src="https://github.com/brunocampos01/devops/blob/master/images/linkedin.png" width="30"></a>
