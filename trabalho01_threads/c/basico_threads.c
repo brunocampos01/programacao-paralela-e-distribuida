@@ -74,5 +74,6 @@ int main ()
 
  	printf("A criar uma nova thread\n");
  	i = pthread_create(&thread, NULL, exercicio01, NULL);
+  	printf("pthread_create: %ld", i);
  	pthread_exit(NULL);
 }
