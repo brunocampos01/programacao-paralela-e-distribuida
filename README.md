@@ -14,6 +14,13 @@
 3. [Processamento distribuído (Hadoop)](trabalho03_hadoop/wordcount)
 4. [Socket: envio e recebimento de mensagens](trabalho04_socket/)
 
+
+### Trabalho Prático - Computação Distribuida
+- Algoritmos de Eleição
+  - [Token Ring](algotimos-eleicao/)
+  - [servidor](algotimos-eleicao/)
+  - [multicast](algotimos-eleicao/)
+
 ---
 
 #### Autor
