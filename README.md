@@ -18,8 +18,8 @@
 ### Trabalho Prático - Computação Distribuida
 - Algoritmos de Eleição
   - [Token Ring](algotimos-eleicao/)
-  - [servidor](algotimos-eleicao/)
-  - [multicast](algotimos-eleicao/)
+  - [Servidor](algotimos-eleicao/)
+  - [Multicast](algotimos-eleicao/)
 
 ---
 
