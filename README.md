@@ -1,6 +1,8 @@
-# Programação Paralela e Distribuída - INE5645
+# Programação Paralela e Distribuída
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1d6de1483d064abea26c3e57ff9274fc)](https://app.codacy.com/manual/brunocampos01/programacao-paralela-e-distribuida?utm_source=github.com&utm_medium=referral&utm_content=brunocampos01/programacao-paralela-e-distribuida&utm_campaign=Badge_Grade_Dashboard)
+![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
+![java](https://img.shields.io/badge/ufsc-programa%C3%A7%C3%A3o%20paralela%20e%20distribu%C3%ADda-green.svg)
 
 ### Pré-requisitos
 - Java 1.8
