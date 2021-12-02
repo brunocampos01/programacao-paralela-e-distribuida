@@ -3,11 +3,13 @@
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 ![java](https://img.shields.io/badge/UFSC-Programa%C3%A7%C3%A3o%20Paralela%20e%20Distribu%C3%ADda-blue.svg)
 
-### Pré-requisitos
-- Java 1.8
-- OPENMP
-- CUDA
-- [Hadoop](https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-16-04)
+## Requirements
+| Requisite      | Version  |
+|----------------|----------|
+| Java           | 1.8      |
+| CUDA           | 11.0     |
+| OPENMP         | 5.0      |
+| Apache Hadoop  | 3.3.0    |
 
 ### Trabalhos
 1. [Threads (Produtor-Consumidor)](trabalho01_threads/)
